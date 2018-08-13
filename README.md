@@ -1,4 +1,6 @@
 # PySide2
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fempyrical%2Fpyside2-setup.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fempyrical%2Fpyside2-setup?ref=badge_shield)
+
 
 ### Introduction
 
@@ -51,3 +53,7 @@ The setup script will try to find the location of the qmake tool of the Qt
 version to be used and the cmake build tool in the path. Non-standard
 locations can be specified by the *--qmake=path_to_qmake* or
 *--cmake=path_to_cmake* command line options.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fempyrical%2Fpyside2-setup.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fempyrical%2Fpyside2-setup?ref=badge_large)
